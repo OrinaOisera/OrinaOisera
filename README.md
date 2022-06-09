@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Cloud infrastructure poering impacful innovation
+- 🔭 I’m currently working on ... Cloud infrastructure powering impacful innovation
 - 🌱 I’m currently learning ... Cloud architecting , Infrastructure as Code and Python
 - 👯 I’m looking to collaborate on ... Cloud blog , Open Source
 - 🤔 I’m looking for help with ... AWS cloud formation and Code deploy
