@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Cloud  and AWS  cloud
 - 📫 How to reach me: ... Email : oiseraorina@gmail.com
 - ⚡ Fun fact: ... I write poems
-
+- ✍🏽 Find blog posts I've written on Impact Africa Network's Blog, AWS Community Builder's  Blog:  [dev.to](https://dev.to/markorina) and [Medium](https://medium.com/@oiseraorina) 
